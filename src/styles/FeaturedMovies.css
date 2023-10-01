@@ -1,0 +1,9 @@
+.carousel {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.movie-card {
+    min-width: 200px;
+    margin: 1rem;
+}
